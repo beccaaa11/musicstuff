@@ -1,0 +1,18 @@
+.first-card{
+    width:250px;
+    height:300px;
+    background-color:black;
+}
+
+.header{
+    background-color:white;
+    font-family:sans-serif;
+    color:black;
+    height:250px;
+}
+
+.title{
+    text-align:center;
+    background-color:white;
+    width:230px;
+}
